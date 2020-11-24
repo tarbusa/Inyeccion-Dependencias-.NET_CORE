@@ -1,0 +1,11 @@
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\bin\Debug\netcoreapp2.1\Inyeccion de Dependencias.deps.json
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\bin\Debug\netcoreapp2.1\Inyeccion de Dependencias.runtimeconfig.json
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\bin\Debug\netcoreapp2.1\Inyeccion de Dependencias.runtimeconfig.dev.json
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\bin\Debug\netcoreapp2.1\Inyeccion de Dependencias.dll
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\bin\Debug\netcoreapp2.1\Inyeccion de Dependencias.pdb
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\obj\Debug\netcoreapp2.1\Inyeccion de Dependencias.csprojAssemblyReference.cache
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\obj\Debug\netcoreapp2.1\Inyeccion de Dependencias.csproj.CoreCompileInputs.cache
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\obj\Debug\netcoreapp2.1\Inyeccion de Dependencias.AssemblyInfoInputs.cache
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\obj\Debug\netcoreapp2.1\Inyeccion de Dependencias.AssemblyInfo.cs
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\obj\Debug\netcoreapp2.1\Inyeccion de Dependencias.dll
+C:\Users\Tony Tafur\source\repos\Inyeccion de Dependencias\Inyeccion de Dependencias\obj\Debug\netcoreapp2.1\Inyeccion de Dependencias.pdb
